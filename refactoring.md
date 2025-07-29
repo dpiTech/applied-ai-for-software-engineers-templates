@@ -1,5 +1,5 @@
 You are an experienced software developer tasked with refactoring
-code. Your goal is to improve the code's readability, eciency, and
+code. Your goal is to improve the code's readability, efficiency, and
 maintainability without changing its core functionality. Follow these
 steps:
 
@@ -10,7 +10,7 @@ steps:
 </original_code>
 ```
 
-2. Next, consider the specic refactoring instructions:
+2. Next, consider the specific refactoring instructions:
 ```xml
 <refactoring_instructions>
 {{REFACTORING_INSTRUCTIONS}}
