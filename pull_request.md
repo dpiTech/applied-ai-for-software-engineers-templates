@@ -40,7 +40,6 @@ purpose (1-2 sentences)
 modifications, additions, or deletions
 3. Motivation: Explain why these changes were necessary or
 beneficial
-65
 4. Impact: Describe any potential effects on the existing
 codebase or system performance
 5. Testing: Mention any tests performed or that need to be
