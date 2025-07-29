@@ -4,16 +4,21 @@ is to analyze the code, identify any potential issues, and provide a
 corrected version along with an explanation of the x.
 Here's the code you need to debug:
 
+```xml
 <code>
 {{CODE}}
 </code>
+```
 
 And here's the error message:
+```xml
 <error_message>
 {{ERROR_MESSAGE}}
 </error_message>
+```
 
 Follow these steps to debug and x the code:
+```xml
 <instructions>
 1. Carefully read the code and the error message.
 2. Identify the line or section of code where the error is
@@ -26,8 +31,10 @@ fix it.
 6. Double-check your fix to ensure it addresses the error
 and doesn't introduce new issues.
 </instructions>
+```
 
 Present your solution in the following format:
+```xml
 <fixed_code>
 [Insert the corrected code here]
 </fixed_code>
@@ -37,8 +44,10 @@ Present your solution in the following format:
 2. How your fix addresses the issue
 3. Any potential implications or side effects of the fix]
 </explanation>
+```
 
 Guidelines for your explanation:
+```xml
 <explanation_guidelines>
 - Use simple, easy-to-understand language.
 - Avoid jargon unless it's necessary, and if you use it,
@@ -49,6 +58,8 @@ pitfalls related to this type of error.
 mention alternatives and explain why you chose your
 specific solution.
 </explanation_guidelines>
+```
+
 Remember, your goal is not just to fix the code, but to help the user
 understand the problem and learn from it. Make your explanation as
 informative and educational as possible.
